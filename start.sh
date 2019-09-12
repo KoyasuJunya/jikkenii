@@ -1,1 +1,1 @@
-singularity run jupyter-notebook.sif
+singularity run okuisatoshi-singularity-jupyter-notebook-master-latest.simg
